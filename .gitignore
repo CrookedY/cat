@@ -1,0 +1,3 @@
+node_modules
+.terraform
+lambda_function.zip
